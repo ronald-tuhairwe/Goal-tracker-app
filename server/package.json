@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Final project Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asaadsaad/CS569-nov-2022-final-project-g7.git"
+  },
+  "author": "Ronald and Paval",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asaadsaad/CS569-nov-2022-final-project-g7/issues"
+  },
+  "homepage": "https://github.com/asaadsaad/CS569-nov-2022-final-project-g7#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.8.1",
+    "mongoose": "^6.5.0"
+  }
+}
